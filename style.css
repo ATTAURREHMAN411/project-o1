@@ -1,0 +1,68 @@
+* {
+  background-color: rgb(148, 143, 143);
+  margin 10px: 
+  
+  }
+  * {
+      margin: 0;
+      font-size: 35px;
+  }
+  .eno>h1 {
+      background-color: white;
+      margin: 15px;
+      padding: 20px;
+      margin-top: 50px;
+      margin-bottom: 0;
+  }
+  .container {
+      margin: 15px;
+      color: white;
+      margin-top: 0;
+  
+  }
+  .one>p {
+      background-color: rgb(4, 156, 216);
+  }
+  .two>p {
+      background-color: rgb(58, 167, 210);
+  }
+  .three p {
+      background-color: rgb(86, 180, 217);
+  }
+  .four p {
+      background-color: rgb(131, 199, 226);
+  }
+  .five p {
+      background-color: rgb(142, 207, 233);
+  }
+  .six p {
+      background-color: rgb(149, 216, 243);
+  }
+  .seven p {
+      background-color: rgb(168, 227, 250);
+  }
+  .eath p {
+      background-color: rgb(11, 156, 54);
+  }
+  .nine p {
+      background-color: rgb(245, 212, 216);
+    }
+  
+  .one1 p {
+    background-color: rgb(246, 201, 208);
+  }
+  .two2 p {
+      background-color: rgb(252, 197, 205);
+    }
+    .three3 p {
+      background-color: rgb(245, 179, 189);
+    }
+    .four4 p {
+      background-color: rgb(249, 172, 184);
+    }
+    .five5 p {
+      background-color: rgb(229, 161, 171);
+    }
+    .six6 p {
+      background-color: rgb(235, 153, 166);
+    }
